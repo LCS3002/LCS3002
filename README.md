@@ -1,29 +1,21 @@
 <div align="center">
 
-**Lorenz Huber** &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/huberlorenz/">linkedin</a> &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=LCS3002&label=views&color=555&style=flat-square" />
+**Lorenz Huber**
 
-*Building — not just buildings.*
+<h2>Building — not just buildings.</h2>
 
 </div>
 
 <br/>
 
-<table width="100%"><tr>
-<td width="50%" valign="top">
+> [!NOTE]
+> **building** &nbsp;·&nbsp; computational design · parametric architecture · AI / ML · NLP · computer vision · finance · medical tech
 
-> **building**
->
-> Computational design tools that blur the line between architecture and software — AI agents for Rhino/Grasshopper, NLP pipelines for finance, computer vision for parametric control.
+> [!TIP]
+> **studying** &nbsp;·&nbsp; BSc Architecture @ UCL Bartlett &nbsp;·&nbsp; from Tyrol, Austria
 
-</td>
-<td width="50%" valign="top">
-
-> **background**
->
-> BSc Architecture @ UCL Bartlett. From Tyrol, Austria. Former Red Cross rescue paramedic, published author, and Tyrolean CAD state winner. Into alpine sports, finance, and writing.
-
-</td>
-</tr></table>
+> [!IMPORTANT]
+> **also** &nbsp;·&nbsp; published author · former Red Cross rescue paramedic · alpine sports · writing
 
 <br/>
 
