@@ -4,18 +4,17 @@
 
 </div>
 
-<br/>
+```
+lorenz@github -----------------------------------------------------------
 
-> [!NOTE]
-> **building** &nbsp;·&nbsp; computational design · parametric architecture · AI / ML · NLP · computer vision · finance · medical tech
+. building: ....... Computational Design · Parametric Architecture
+.                   AI / ML · NLP · Computer Vision · Finance · Medical Tech
+. studying: ....... BSc Architecture @ UCL Bartlett · from Tyrol, Austria
+. also: ........... published author · former Red Cross rescue paramedic
+.                   alpine sports · finance · writing
 
-> [!TIP]
-> **studying** &nbsp;·&nbsp; BSc Architecture @ UCL Bartlett &nbsp;·&nbsp; from Tyrol, Austria
-
-> [!IMPORTANT]
-> **also** &nbsp;·&nbsp; published author · former Red Cross rescue paramedic · alpine sports · writing
-
-<br/>
+-----------------------------------------------------------
+```
 
 <div align="center">
 
