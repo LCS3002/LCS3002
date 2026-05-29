@@ -4,14 +4,11 @@
 
 *Building &mdash; not just buildings.*
 
-<p>
-  <a href="https://www.linkedin.com/in/huberlorenz/">
-    <img src="https://img.shields.io/badge/LinkedIn-huberlorenz-7DD3FC?style=flat-square&logo=linkedin&logoColor=white&labelColor=0E2228" />
-  </a>
-  <img src="https://img.shields.io/badge/UCL%20Bartlett-D1DDE3?style=flat-square&labelColor=0E2228&color=162830" />
-  <img src="https://img.shields.io/badge/London%2C%20UK-D1DDE3?style=flat-square&logo=googlemaps&logoColor=7DD3FC&labelColor=162830&color=162830" />
-  <img src="https://komarev.com/ghpvc/?username=LCS3002&label=views&color=162830&style=flat-square" />
-</p>
+<br/>
+
+Computational Design &nbsp;·&nbsp; Parametric Architecture &nbsp;·&nbsp; AI / ML &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Finance &nbsp;·&nbsp; Medical Tech
+
+<br/>
 
 ---
 
@@ -69,12 +66,12 @@
 
 ---
 
-BSc Architecture @ UCL Bartlett &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; originally from Tyrol, Austria
+published author &nbsp;·&nbsp; former Red Cross rescue paramedic &nbsp;·&nbsp; BSc Architecture @ UCL Bartlett
 
-Former Red Cross rescue paramedic &nbsp;·&nbsp; Published author &nbsp;·&nbsp; Tyrolean CAD state winner
+<br/>
 
-Interests: alpine sports &nbsp;·&nbsp; computational design &nbsp;·&nbsp; finance &nbsp;·&nbsp; writing
-
-Languages: English &nbsp;·&nbsp; German &nbsp;·&nbsp; French
+<a href="https://www.linkedin.com/in/huberlorenz/"><img src="https://img.shields.io/badge/LinkedIn-huberlorenz-7DD3FC?style=flat-square&logo=linkedin&logoColor=white&labelColor=0E2228" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=LCS3002&label=views&color=162830&style=flat-square" />
 
 </div>
