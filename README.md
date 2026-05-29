@@ -1,25 +1,17 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2228,50:162830,100:0E2228&height=200&section=header&text=Lorenz%20Huber&fontSize=60&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=Architecture%20%C2%B7%20AI%20%C2%B7%20Finance&descAlignY=60&descSize=20&descAlign=50&descColor=D1DDE3&animation=fadeIn" />
-
-<br/>
-
-<strong>Building &mdash; not just buildings.</strong>
-
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2228,50:162830,100:0E2228&height=200&section=header&text=Lorenz%20Huber&fontSize=60&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=Building%20%E2%80%94%20not%20just%20buildings.&descAlignY=60&descSize=18&descAlign=50&descColor=D1DDE3&animation=fadeIn" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=LCS3002&label=Profile+Views&color=0E2228&style=flat-square&labelColor=162830" />
   <a href="https://www.linkedin.com/in/huberlorenz/">
     <img src="https://img.shields.io/badge/LinkedIn-huberlorenz-7DD3FC?style=flat-square&logo=linkedin&logoColor=white&labelColor=0E2228" />
   </a>
   <img src="https://img.shields.io/badge/UCL%20Bartlett-D1DDE3?style=flat-square&labelColor=0E2228&color=162830" />
   <img src="https://img.shields.io/badge/London%2C%20UK-D1DDE3?style=flat-square&logo=googlemaps&logoColor=7DD3FC&labelColor=162830&color=162830" />
+  <img src="https://komarev.com/ghpvc/?username=LCS3002&label=views&color=162830&style=flat-square" />
 </p>
 </div>
 
 ---
-
-## Tech Stack
 
 <div align="center">
 
@@ -81,16 +73,17 @@
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/BSc%20Architecture-UCL%20Bartlett%202025--2028-7DD3FC?style=flat-square&labelColor=0E2228" />
-  <img src="https://img.shields.io/badge/Red%20Cross-Rescue%20Paramedic%202024--2025-CC0000?style=flat-square&labelColor=0E2228" />
-  <img src="https://img.shields.io/badge/Published%20Author-Shortlist%20Young%20Storyteller%202024-D1DDE3?style=flat-square&labelColor=162830" />
-  <img src="https://img.shields.io/badge/Tyrolean%20CAD%20State%20Winner-D1DDE3?style=flat-square&labelColor=162830" />
-</p>
+BSc Architecture @ UCL Bartlett &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; originally from Tyrol, Austria
 
-<p>Interests: alpine sports &nbsp; computational design &nbsp; finance &nbsp; writing</p>
+Former Red Cross rescue paramedic &nbsp;·&nbsp; Published author &nbsp;·&nbsp; Tyrolean CAD state winner
+
+Interests: alpine sports &nbsp;·&nbsp; computational design &nbsp;·&nbsp; finance &nbsp;·&nbsp; writing
+
+Languages: English &nbsp;·&nbsp; German &nbsp;·&nbsp; French
 
 </div>
+
+<br/>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2228,50:162830,100:0E2228&height=100&section=footer" />
