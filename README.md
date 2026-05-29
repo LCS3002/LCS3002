@@ -1,7 +1,4 @@
 <div align="center">
-
-**Lorenz Huber**
-
 <h2>Building — not just buildings.</h2>
 
 </div>
