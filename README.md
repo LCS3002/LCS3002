@@ -1,19 +1,13 @@
-<div align="center">
-
-<h2>Building — not just buildings.</h2>
-
-</div>
-
 ```
 lorenz@github -----------------------------------------------------------
+
+  Building — not just buildings.
 
 . building: ....... Computational Design · Parametric Architecture
 .                   AI / ML · NLP · Computer Vision · Finance · Medical Tech
 . studying: ....... BSc Architecture @ UCL Bartlett · from Tyrol, Austria
 . also: ........... published author · former Red Cross rescue paramedic
 .                   alpine sports · finance · writing
-
------------------------------------------------------------
 ```
 
 <div align="center">
