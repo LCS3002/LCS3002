@@ -1,5 +1,8 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2228,50:162830,100:0E2228&height=200&section=header&text=Lorenz%20Huber&fontSize=60&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=Building%20%E2%80%94%20not%20just%20buildings.&descAlignY=60&descSize=18&descAlign=50&descColor=D1DDE3&animation=fadeIn" />
+
+**Lorenz Huber**
+
+*Building &mdash; not just buildings.*
 
 <p>
   <a href="https://www.linkedin.com/in/huberlorenz/">
@@ -9,11 +12,8 @@
   <img src="https://img.shields.io/badge/London%2C%20UK-D1DDE3?style=flat-square&logo=googlemaps&logoColor=7DD3FC&labelColor=162830&color=162830" />
   <img src="https://komarev.com/ghpvc/?username=LCS3002&label=views&color=162830&style=flat-square" />
 </p>
-</div>
 
 ---
-
-<div align="center">
 
 ### Programming and Dev
 
@@ -67,11 +67,7 @@
   <img src="https://img.shields.io/badge/3D%20Printing-FF6B00?style=for-the-badge&logo=printables&logoColor=white"/>
 </p>
 
-</div>
-
 ---
-
-<div align="center">
 
 BSc Architecture @ UCL Bartlett &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; originally from Tyrol, Austria
 
@@ -81,10 +77,4 @@ Interests: alpine sports &nbsp;·&nbsp; computational design &nbsp;·&nbsp; fina
 
 Languages: English &nbsp;·&nbsp; German &nbsp;·&nbsp; French
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2228,50:162830,100:0E2228&height=100&section=footer" />
 </div>
